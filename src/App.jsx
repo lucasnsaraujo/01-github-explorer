@@ -1,4 +1,5 @@
 export function App()
 {
-    return <h1>Hello World</h1>
+    throw new Error('Pode vir Marcos')
+    return <h1>Hello Ignite</h1>
 }
